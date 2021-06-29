@@ -32,5 +32,18 @@ Ini mau bikin renovasi instagram highlight buat aku sendiri
     - Up View
     
 3. ruang ruang (Home)
-4. 
+4. review film (Movies)
+  : - Pilih 1-2 film terbaik dalam setaun
+      > pilih screenshoot scene favorit
+      > kasih review
+      > kasih properti tanggal nontonnya
+      
+    - Buat desain template filmnya
+    - ratings based on 3 things (story, soul of each character, emotions)
+    - coloums of review (title, genre, rate)
+    - 1Stars = 6
+    - 2Stars = 12
+    - 3Stars = 18
+    - 4Stars = 24
+    - 5Stars = 30
 
